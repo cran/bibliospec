@@ -1,0 +1,12 @@
+24907a1d3e7adbee70efad7ebb73b055 *DESCRIPTION
+97d0f666033527ec80e69d1908f6cf9f *NAMESPACE
+91480f0e2caef5466f603cdcef7d242b *R/bibliospec.R
+233c7469fc60f456c2e1fa97c86e1871 *R/zzz.R
+b868538499ded7ca6659c10cf2613d07 *README.md
+8c848ba202676e04f5cb217eb1f120bd *inst/Dockerfile
+da26a9a63b470f9e20e5c83874285ca1 *inst/NEWS.Rd
+3f231931e54efd6516d7aa302073b17f *inst/extdata/peptideStd.sqlite
+20cfc90e4b4ac14b3a57af6f122bdc0c *inst/graphics/uml.png
+8e88870eb651312b8fb3980050d9bc00 *man/Bibliospec-class.Rd
+03b2408b649fc0717dd679e8023ab5c0 *tests/testthat.R
+2f6f4ef2a05fa69dede43a667fa1b3b8 *tests/testthat/test-bibliospec.R
